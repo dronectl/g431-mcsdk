@@ -1,0 +1,6 @@
+#
+#Fri Dec 23 01:31:00 EST 2022
+selected.firmware_ver=Latest
+selected.toolchain=ST STM32CubeIDE
+selected.cubemx=6.7.0
+selected.driver=LL - Low Level
